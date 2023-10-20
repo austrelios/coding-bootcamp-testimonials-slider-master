@@ -26,7 +26,7 @@ body {
     height: fit-content;
 }
 
-#pattern-quotes {
+.pattern-quotes {
     position: absolute;
     top: 1.8rem;
     left: 2rem;
@@ -135,7 +135,7 @@ body {
     body {
         padding-top: 10rem;
     }
-    #pattern-quotes {
+    .pattern-quotes {
         position: absolute;
         top: 11rem;
     }
@@ -154,7 +154,7 @@ body {
         display: block;
     }
 
-    .user_name, #user_position {
+    .user_name, .user_position {
         margin: 0;
     }
 
